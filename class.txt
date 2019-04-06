@@ -1,4 +1,5 @@
 The Illiad
+Copyright (c) 2018 Elvira
 BOOK I.
 ARGUMENT.40
 
